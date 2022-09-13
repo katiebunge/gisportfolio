@@ -8,6 +8,9 @@ In July and August 2022, I piloted the first public ArcGIS Survey 123 survey at 
 
 Using Survey123 allowed our planning team to collect GIS point data from survey respondents on specifically where their trips originate and end. Survey respondents could choose a specific location such as their home building footprint, or a more general area. Creating repeats in Survey 123 Connect allowed us to collect multiple data points in one survey. 
 
+<img src="https://raw.githubusercontent.com/katiebunge/gisportfolio/main/assets/images/SR542SurveyMap.png">
+<sub>Example map question from SR 542 Deming Community Survey in Survey123</sub>
+
 After the survey closed in September 2022, three point data feature classes had been generated from Survey 123: A trip origin feature class, trip destination feature class, and general "transportation challenge" feature class where survey respondents had marked their most pressing issue along the corridor and chosen descriptive categories to identify why the location was a challenge. These feature classes were linked to the rest of the survey questions by a common GlobalID key. 
 
 The trip origin and destination feature classes were uploaded into ArcGIS Online and analyzed using the "Connect Origins to Destinations" tool: 
