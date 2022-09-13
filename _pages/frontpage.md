@@ -5,19 +5,12 @@ title: Welcome
 list_title: My blog posts
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+I'm Katie - a transportation planner working in the public sector. I have a background in environmental education and sustainable and resilient community development. I currently work for the [Washington State Department of Transportation's][wsdot] Northwest Region Mount Baker Area, serving communities in Whatcom, Skagit, and Island counties. 
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+This blog showcases some of the spatial analysis and data visualization projects I have developed during my time working in public transportation planning agencies. 
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
 
-<img src="./assets/imgs/screenshot.png" width="400px">
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
 
-Have a great day!!
+[wsdot]: https://www.wsdot.wa.gov
 
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages`
