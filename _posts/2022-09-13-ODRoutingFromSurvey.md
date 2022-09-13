@@ -4,8 +4,6 @@ date: 2022-09-13
 layout: post
 ---
 
-# Origin-Destination Routing: SR 542 Deming Community Survey
-
 In July and August 2022, I piloted the first public ArcGIS Survey 123 survey at WSDOT. Generally speaking, planning studies in the Northwest Region tend to utilize SurveyMonkey or other similar web platforms without the ability to collect spatial data - unless consultants or partners provide access to more sophisticated tools. 
 
 Using Survey123 allowed our planning team to collect GIS point data from survey respondents on specifically where their trips originate and end. Survey respondents could choose a specific location such as their home building footprint, or a more general area. Creating repeats in Survey 123 Connect allowed us to collect multiple data points in one survey. 
