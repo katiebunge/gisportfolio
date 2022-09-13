@@ -1,1 +1,36 @@
+title: GIS Portfolio
+description: Presenting professional and personal GIS work products
+author: "Katie Bunge"
+
 theme: minima
+
+base_url: /gisportfolio
+
+# Minima social links
+#twitter_username: 
+#github_username: 
+#linkedin_username: 
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
