@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: My blog posts
+list_title: Highlights
 ---
 
 I'm Katie - a transportation planner working in the public sector. I have a background in environmental education and sustainable and resilient community development. I currently work for the [Washington State Department of Transportation's][wsdot] Northwest Region Mount Baker Area, serving communities in Whatcom, Skagit, and Island counties. 
