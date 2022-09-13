@@ -24,4 +24,5 @@ A heat map of survey respondent estimated trips originating in eastern Whatcom C
 <img src="https://raw.githubusercontent.com/katiebunge/gisportfolio/main/assets/images/TripsToDeming.png">
 A heat map of survey respondent estimated trips traveling to Deming, WA
 
+<br>
 This work is still underway. My hope is that we can develop an interactive data explorer to communicate survey results to the public at our in-person open house. Some limitations are that some members of the public did have difficulty responding to the survey with the online and web map format. In particular, this survey format was not friendly for mobile devices. In a highly rural community such as Deming, it is possible that more people were responding via mobile devices than on a desktop computer, if broadband access is limited. Age and ability gaps also contributed to some issues answering the survey questions. 
